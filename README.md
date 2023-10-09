@@ -149,20 +149,6 @@ $ zphisher
 </details>
 
 ##
-
-<h3 align="center"><i>:: Workflow ::</i></h3>
-<p align="center">
-<img src=".github/misc/workflow.gif"/>
-</p>
-
-##
-
-### Find Me on:
-<p align="left">
-  <a src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
-  <a href="[https://github.com/htr-tech](https://github.com/CanadianNetwork2030)" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
-</p>
-
 ### *Thanks to all contributors*:
 
 <table>
