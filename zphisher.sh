@@ -3,7 +3,6 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	Ty Ridsdill 
 ##   Version 	: 	2.3.5
-##   Github 	: 	https://github.com/htr-tech/zphisher
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -76,8 +75,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  HTR-TECH (https://github.com/htr-tech)
-##
+##      Copyright (C) 2023
 
 ##   THANKS TO :
 ##   1RaY-1 - https://github.com/1RaY-1
@@ -349,9 +347,7 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN} Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN} Social   ${RED}:  ${CYAN}https://tahmidrayat.is-a.dev
+	
 		${GREEN} Version  ${RED}:  ${ORANGE}${__version__}
 
 		${WHITE} ${REDBG}Warning:${RESETBG}
