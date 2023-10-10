@@ -347,8 +347,6 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-	
-		${GREEN} Version  ${RED}:  ${ORANGE}${__version__}
 
 		${WHITE} ${REDBG}Warning:${RESETBG}
 		${CYAN}  This Tool is made for educational purpose 
