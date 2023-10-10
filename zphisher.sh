@@ -1,8 +1,7 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	Ty Ridsdill 
-##   Version 	: 	2.3.5
+##   Author 	: 	Ty Ridsdill
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -211,7 +210,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Ty Ridsdill (SCC_TyR)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Ty Ridsdill (HTC_Marketing)${WHITE}
 	EOF
 }
 
